@@ -1,1 +1,1 @@
-# estrutura-o-redes-laboratorio
+# estruturacao-redes-laboratorio
